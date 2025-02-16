@@ -1,4 +1,4 @@
-# README
+# Infos utilisations :
 ## Politique de Confidentialité
 
 _Dernière mise à jour : 16/02/25_
@@ -59,10 +59,13 @@ Les présentes CGU sont soumises à la loi française.
 ### 3. Contact
 Pour toute question, vous pouvez nous contacter à duphistoire@gmx.fr.
 
-## 💡Petit plus
+# Langues du site :
+Le site "DupHistoire" est disponible en francais et en allemand. Pour basculer d'une langue à l'autre, un bouton et present dans la page de settings.
 
-### ➡️Url raccourcie
+# 💡Petit plus
+
+## ➡️Url raccourcie
 [https://bit.ly/duphistoire](https://bit.ly/duphistoire)
 
-### ➡️Lien du Google Sites
+## ➡️Lien du Google Sites
 [https://sites.google.com/view/duphistoire/accueil](https://sites.google.com/view/duphistoire/accueil)
