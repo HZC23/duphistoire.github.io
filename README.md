@@ -4,7 +4,7 @@
 _Dernière mise à jour : 16/02/25_
 
 ### 1. Collecte des informations
-Nous collectons uniquement les données strictement nécessaires à l'amélioration du site "Du Phistoire". Cela peut inclure :
+Nous collectons uniquement les données strictement nécessaires à l'amélioration du site "DupHistoire". Cela peut inclure :
 - Données fournies volontairement via des formulaires (nom, adresse e-mail, etc.)
 
 - Données de navigation (cookies, journaux de connexion, etc.)
@@ -29,7 +29,7 @@ Conformément à la réglementation en vigueur, vous disposez d'un droit d'accè
 _Dernière mise à jour : 16/02/25_
 
 ### 1. Présentation du site
-Le site "Du Phistoire" propose des contenus historiques à titre informatif et éducatif.
+Le site "DupHistoire" propose des contenus historiques à titre informatif et éducatif.
 
 ### 2. Accès au site
 L'accès au site est gratuit. L'utilisateur s'engage à ne pas perturber son bon fonctionnement.
