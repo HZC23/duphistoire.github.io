@@ -22,7 +22,7 @@ Nous ne partageons pas vos données personnelles avec des tiers, sauf si requis 
 Nous mettons en place des mesures de sécurité pour protéger vos informations.
 
 ### 5. Vos droits
-Conformément à la réglementation en vigueur, vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Vous pouvez nous contacter à xciidupuis2@gmail.com.
+Conformément à la réglementation en vigueur, vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Vous pouvez nous contacter à duphistoire@gmx.fr.
 
 ## Conditions Générales d'Utilisation (CGU)
 
@@ -50,14 +50,14 @@ Les présentes CGU sont soumises à la loi française.
 
 ### 1. Éditeur du site
 Nom : GdXcIi + HZC23
-Email : xciidupuis2@gmail.com
+Email : duphistoire@gmx.fr
 
 ### 2. Hébergeur
 Nom : Google Sites
 Adresse : sites.google.com
 
 ### 3. Contact
-Pour toute question, vous pouvez nous contacter à xciidupuis2@gmail.com.
+Pour toute question, vous pouvez nous contacter à duphistoire@gmx.fr.
 
 ## 💡Petit plus
 
