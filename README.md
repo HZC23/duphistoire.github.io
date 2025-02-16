@@ -35,7 +35,7 @@ Le site "DupHistoire" propose des contenus historiques à titre informatif et é
 L'accès au site est gratuit. L'utilisateur s'engage à ne pas perturber son bon fonctionnement.
 
 ### 3. Propriété intellectuelle
-Les contenus publiés sur "Du Phistoire" (textes, images, etc.) sont protégés par le droit d'auteur. Toute reproduction sans autorisation est interdite.
+Les contenus publiés sur "DupHistoire" (textes, images, etc.) sont protégés par le droit d'auteur. Toute reproduction sans autorisation est interdite.
 
 ### 4. Responsabilité
 Nous nous efforçons d'assurer l'exactitude des informations publiées, mais nous ne pouvons garantir l'absence d'erreurs. L'utilisation du site se fait sous la responsabilité de l'utilisateur.
