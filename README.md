@@ -6,9 +6,5 @@ _DupHistoire_ est un site d'histoire sur l'Allemagne, dans lequel nous expliquon
 Ce site existe en français et en allemand. Vous pouvez baculer d'une langue à l'autre dans les paramètres du site. _(bientôt)_
 
 ## Comment y accéder ?
-
-### ➡️Url raccourcie
 [https://bit.ly/duphistoire](https://bit.ly/duphistoire)
-
-### ➡️Lien du Google Sites
 [https://sites.google.com/view/duphistoire/accueil](https://sites.google.com/view/duphistoire/accueil)
