@@ -3,7 +3,7 @@
 _Dernière mise à jour : 17/02/25_
 
 ## 1. Collecte des informations
-Nous collectons uniquement les données strictement nécessaires à l'amélioration du site "Du Phistoire". Cela peut inclure :
+Nous collectons uniquement les données strictement nécessaires à l'amélioration du site "DupHistoire". Cela peut inclure :
 - Données fournies volontairement via des formulaires (adresse e-mail)
 - Données de navigation (cookies, journaux de connexion, etc.)
 
