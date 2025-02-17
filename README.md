@@ -5,7 +5,8 @@ _DupHistoire_ est un site d'histoire sur l'Allemagne, dans lequel nous expliquon
 ## Langues
 Ce site existe en français et en allemand. Vous pouvez baculer d'une langue à l'autre dans les paramètres du site.
 
-✅ Ce site est gratuit et ouvert à tous ; merci de ne pas empecher son fonctionnement.
+## 
+✅ Ce site est gratuit et ouvert à tous ; merci de ne pas le degrader...
 
 ## Comment y accéder ?
 
