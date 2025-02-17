@@ -12,10 +12,11 @@ Les informations collectées sont utilisées pour :
 - Améliorer l'expérience utilisateur
 - Assurer le bon fonctionnement du site
 - Analyser les performances du site
-- Partage de la News Letter
+- La News Letter
 
 ## 3. Partage des données
-Nous ne partageons pas vos données personnelles avec des tiers, sauf si requis par la loi.
+Une fois remplie sur DupHistoire, votre adresse e-mail est tout de suite envoyée sur un salon Discord Privé où seuls les développeurs et rédacteurs de la News Letter ont accès. A part cela, nous ne partageons pas vos données personnelles avec des tiers ou d'autres personnes, sauf si requis par la loi.
+En aucun cas, votre adresse e-amil n'est partagée à des personnes mal-intentionnées.
 
 ## 4. Sécurité des données
 Nous mettons en place des mesures de sécurité pour protéger vos informations.
