@@ -1,15 +1,15 @@
 # Conditions Générales d'Utilisation (CGU)
 
-_Dernière mise à jour : 16/02/25_
+_Dernière mise à jour : 17/02/25_
 
 ## 1. Présentation du site
-Le site "Du Phistoire" propose des contenus historiques à titre informatif et éducatif.
+Le site _DupHistoire_ propose des contenus historiques à titre informatif et éducatif.
 
 ## 2. Accès au site
 L'accès au site est gratuit. L'utilisateur s'engage à ne pas perturber son bon fonctionnement.
 
 ## 3. Propriété intellectuelle
-Les contenus publiés sur "Du Phistoire" (textes, images, etc.) sont protégés par le droit d'auteur. Toute reproduction sans 
+Les contenus publiés sur _DupHistoire_ (textes, images, etc.) sont protégés par le droit d'auteur. Toute reproduction sans 
 autorisation est interdite.
 
 ## 4. Responsabilité
