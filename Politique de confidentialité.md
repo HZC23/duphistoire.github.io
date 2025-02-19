@@ -1,6 +1,6 @@
 # Politique de Confidentialité
 
-_Dernière mise à jour : 17/02/25_
+_Dernière mise à jour : 19/02/25_
 
 ## 1. Collecte des informations
 Nous collectons uniquement les données strictement nécessaires à l'amélioration du site "DupHistoire". Cela peut inclure :
