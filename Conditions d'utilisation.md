@@ -3,7 +3,7 @@
 _Dernière mise à jour : 17/02/25_
 
 ## 1. Présentation du site
-Le site _DupHistoire_ propose des contenus historiques à titre informatif et éducatif.
+Le site _DupHistoire_ propose des contenus historiques à titre informatif et éducatif. Le site est disponible en francais et une version en allemand est encore à l'etat de projet.
 
 ## 2. Accès au site
 L'accès au site est gratuit. L'utilisateur s'engage à ne pas perturber son bon fonctionnement.
