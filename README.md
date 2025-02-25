@@ -8,3 +8,6 @@ Ce site existe en français et en allemand. Vous pouvez baculer d'une langue à 
 ## Comment y accéder ?
 - [https://bit.ly/duphistoire](https://bit.ly/duphistoire)
 - [https://sites.google.com/view/duphistoire/accueil](https://sites.google.com/view/duphistoire/accueil)
+
+## Lien pour télécharger notre application Android 
+https://drive.google.com/file/d/1D67F68nkO0v_MGdpaStyIxPyqIHIVUNj/view?usp=drivesdk
