@@ -17,12 +17,3 @@ Nous ne vous avons pazs oublié, chers utilisateurs iOS ! Il nous manque simplem
 Alors à tous ceux qui ont un peu trop d'argent dans leur porte monnaie, nous, on prend volontier !
 
 Merci à tous ceux qui feront des donts !
-
-### Si vous avez des compétences informatiques et que vous avez un Mac sous macOS Sonoma ou ultérieur
-Si vous avez des compétences en informatique et que vous avez un Mac sous macOS Sonoma ou ultérieur, vous pouvez vous procurer l'app iOS DupHistoire !
-Voici comment faire :
-1. Installez Xcode dans l'App Store, puis lancez Xcode. Il vous demandera certianement d'installer des modules complementaires. Choisissez alors d'installer au minimum les modules iOS.
-2. Téléchargez [ce fichier ZIP](./AppIOS/DupHistoireApp-iOS.zip) puis décompressez le.
-3. Rendez vous dans Xcode puis cliquez sur **Fichier**>**Ouvrir**, puis dans la boîte de dialogue qui s'ouvre alors, aller dans le dossier décompressé du projet, que vous avez télchargé à l'étape précédente et ouvrez le fichier dont l'extension est `.xcodeproj`.
-4. Une fois le projet ouvert, connectez votre iPhone à votre Mac, à l'aide du câble de chargement de l'iPhone.
-5. Dans Xcode vous pouvez alors cliquer sur ce bouton : !(./
