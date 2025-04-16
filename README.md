@@ -23,6 +23,6 @@ Si vous avez des compétences en informatique et que vous avez un Mac sous macOS
 Voici comment faire :
 1. Installez Xcode dans l'App Store, puis lancez Xcode. Il vous demandera certianement d'installer des modules complementaires. Choisissez alors d'installer au minimum les modules iOS.
 2. Téléchargez [ce fichier ZIP](./AppIOS/DupHistoireApp-iOS.zip) puis décompressez le.
-3. Rendez vous dans Xcode puis cliquez sur **Fichier**>**Ouvrir**, puis dans la boîte de dialogue qui s'ouvre alors, aller dans le dossier décompressé du projet, que vous avez télchargé à l'étape précédente, puis ouvrez le dossier qui n'a pas de nom terminant par `Tests` ou `UITests` (dans mon cas : `DupHistoireApp-iOS` est le bon contrairement aux deux autres : `DupHistoireApp-iOSTests` et `DupHistoireApp-iOSUITests`). Sélectionnez le fichier dont l'extension est `.xcodeproj`.
+3. Rendez vous dans Xcode puis cliquez sur **Fichier**>**Ouvrir**, puis dans la boîte de dialogue qui s'ouvre alors, aller dans le dossier décompressé du projet, que vous avez télchargé à l'étape précédente et ouvrez le fichier dont l'extension est `.xcodeproj`.
 4. Une fois le projet ouvert, connectez votre iPhone à votre Mac, à l'aide du câble de chargement de l'iPhone.
-5. Dans Xcode vous pouvez alors cliuer sur ce bouton : !(./
+5. Dans Xcode vous pouvez alors cliquer sur ce bouton : !(./
