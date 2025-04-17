@@ -13,7 +13,7 @@ Ce site existe en français et en allemand. Vous pouvez baculer d'une langue à 
 https://drive.google.com/file/d/1D67F68nkO0v_MGdpaStyIxPyqIHIVUNj/view?usp=drivesdk
 
 ## Et pour nos chers utilisateurs iOS
-Nous ne vous avons pazs oublié, chers utilisateurs iOS ! Il nous manque simplement un petit d'argent pour distribuer l'application iOS (genre 99€/an...) !
-Alors à tous ceux qui ont un peu trop d'argent dans leur porte monnaie, nous, on prend volontier !
+Nous ne vous avons pas oublié, chers utilisateurs iOS ! Il nous manque simplement un petit d'argent pour distribuer l'application iOS (genre 99€/an...) !
+Alors à tous ceux qui ont un peu trop d'argent dans leur porte monnaie, nous, on prend volontier ! Vous pouvez nous faire des dons sur cette [page](https://www.paypal.com/ncp/payment/6G5PXHFNQ9XFN).
 
-Merci à tous ceux qui feront des donts !
+Merci beaucoup à tous ceux qui feront des donts !
